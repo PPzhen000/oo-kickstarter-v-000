@@ -1,13 +1,13 @@
-class Project 
+class Project
 
-  attr_accessor 
+  attr_accessor
 
   def initialize(title)
-    @title = title 
-  end 
+    @title = title
+  end
 
   def add_backer
 
-  end 
+  end
   
-end 
+end
